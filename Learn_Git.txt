@@ -1,0 +1,10 @@
+GitHub - Version Control - Open Source 
+Git - Tool 
+
+git init - Initialize
+git status - To know current status
+git add . - to all all files to be tracked (Untracked -> Track)
+git commit -m "Message" -> To stage the changes
+git remote origin - to set the remote origin (Only once)
+git push -> To move /push the local changes to remote repository
+
